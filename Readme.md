@@ -1,8 +1,13 @@
 # Sandbox - C#10
 
-[C#10 - What's new](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-10#record-structs)
+[C#10 - What's new](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-10)
+
+## Disclaimer
+
+This project is done for learning purposes. It is not necessarily production quality code.
 
 
+## Features
 In this repository
 
 - Assignment and declaration in same deconstruction
